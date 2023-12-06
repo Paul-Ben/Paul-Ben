@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-Ben
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning Laravel and React and JavaScript
+- 🌱 I’m a Laravel and React developer
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me paulben.ajene@gmail.com
 
