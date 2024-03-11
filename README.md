@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-Ben
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m a Laravel and React developer
+- 🌱 I’m a Fullstack developer (Laravel, Springboot, livewire, bootstrap, tailwindcss and some React)
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me paulben.ajene@gmail.com
 
